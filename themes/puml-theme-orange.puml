@@ -1,0 +1,18 @@
+!define FONT #703B3B
+!define LINE #F0134D
+!define BACKGROUND #F5F0E3
+!define LINEBACKGROUND #FF6F5E
+
+skinparam Arrow {
+  FontColor FONT
+}
+
+skinparam sequence {
+ArrowColor LINE
+LifeLineBorderColor LINE
+LifeLineBackgroundColor LINEBACKGROUND
+ParticipantBorderColor LINE
+ParticipantBackgroundColor BACKGROUND
+ParticipantFontSize 17
+ParticipantFontColor FONT
+}
