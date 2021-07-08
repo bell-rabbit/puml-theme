@@ -16,3 +16,15 @@ ParticipantBackgroundColor BACKGROUND
 ParticipantFontSize 17
 ParticipantFontColor FONT
 }
+
+skinparam component {
+  BorderColor LINE
+  BackgroundColor BACKGROUND
+  ArrowColor LINE
+  FontColor FONT
+}
+
+skinparam rectangle {
+  FontColor FONT
+  BorderColor LINE
+}
