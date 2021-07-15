@@ -28,3 +28,14 @@ skinparam rectangle {
   FontColor FONT
   BorderColor LINE
 }
+
+skinparam frame {
+  	BorderColor LINE
+	FontColor FONT
+}
+
+skinparam card {
+  	 BackGroundColor BACKGROUND
+     FontColor FONT
+     BorderColor LINE
+}
