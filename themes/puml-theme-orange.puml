@@ -39,3 +39,17 @@ skinparam card {
      FontColor FONT
      BorderColor LINE
 }
+
+skinparam class {
+	 BackGroundColor BACKGROUND
+     FontColor FONT
+     BorderColor LINE
+}
+
+skinparam ClassAttribute {
+  FontColor FONT
+}
+
+skinparam ClassStereotype {
+  FontColor FONT
+}
