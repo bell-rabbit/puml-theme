@@ -53,3 +53,9 @@ skinparam ClassAttribute {
 skinparam ClassStereotype {
   FontColor FONT
 }
+
+skinparam state {
+  	 BackGroundColor BACKGROUND
+     FontColor FONT
+     BorderColor LINE
+}
